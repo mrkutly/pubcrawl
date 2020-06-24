@@ -14,18 +14,18 @@
 		"start": "node index.js"
 	},
 	"dependencies": {
-		"apollo-server": "^2.9.3",
-		"apollo-server-plugin-response-cache": "^0.3.5",
+		"apollo-server": "^2.15.0",
+		"apollo-server-plugin-response-cache": "^0.3.11",
 		"dataloader": "^1.4.0",
-		"dotenv": "^8.1.0",
+		"dotenv": "^8.2.0",
 		"graphql-import": "^0.7.1",
-		"mysql": "^2.17.1",
+		"mysql": "^2.18.1",
 		"waait": "^1.0.5"
 	},
 	"devDependencies": {
-		"eslint": "^6.5.1",
-		"eslint-config-airbnb-base": "^14.0.0",
-		"eslint-plugin-import": "^2.18.2",
-		"nodemon": "^1.19.2"
+		"eslint": "^6.8.0",
+		"eslint-config-airbnb-base": "^14.2.0",
+		"eslint-plugin-import": "^2.21.2",
+		"nodemon": "^1.19.4"
 	}
 }
